@@ -19,4 +19,3 @@ params->precision = UINT MAX;
 params->h _modifier = 0;
 params->1 modifier = 0;
 (void) ap;
-}
