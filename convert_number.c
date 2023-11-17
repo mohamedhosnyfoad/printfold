@@ -5,7 +5,6 @@
  * @ap: the argument pointer
  * @params: the parameters struct
  *
- * Return: bytes printed
  */
 int print_hex(va_list ap, params_t *params)
 {
